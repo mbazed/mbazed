@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mohammed Bazed Ali</h1>
-<h3 align="center">Passionate Computer Science Engineer | Enthusiast in Web and Android Development | Eager to Innovate and Collaborate</h3>
+<h3 align="center">Enthusiast in Web and Android Development | Eager to Innovate and Collaborate</h3>
 
 
 - 🌱 I’m currently learning **Javascript, NodeJS and Python for ML**
